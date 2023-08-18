@@ -6,12 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-
-#Extracted dataset
-datasets/
-.datasets/
-
-
 # Distribution / packaging
 .Python
 build/
@@ -133,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bopmvenv/
+firstvenv/
 
 # Spyder project settings
 .spyderproject
